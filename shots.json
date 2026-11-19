@@ -1,5 +1,1 @@
-[
-  { "name": "1-cover.jpg", "query": "?shot=cover&photo=pier&caption=Sunset%20Heist", "w": 1080, "h": 1080 },
-  { "name": "2-editor.jpg", "query": "?shot=editor&photo=boulevard&caption=Boulevard%20Queen", "w": 1280, "h": 720 },
-  { "name": "3-cover.jpg", "query": "?shot=cover&photo=boulevard&caption=Boulevard%20Queen", "w": 1080, "h": 1080 }
-]
+[{"h": 720, "name": "1-cover.jpg", "query": "?shot=cover&layout=poster&size=wide&grade=neon&title=Neon%20Nights&subtitle=Ocean%20Drive&photos=neon,skyline,boulevard&pans=0,0;0,0;0,0.7", "w": 1280}, {"h": 720, "name": "2-editor.jpg", "query": "?shot=editor&layout=poster&size=square&grade=sunset&title=Sunset%20Heist&subtitle=Ocean%20Drive&photos=boulevard,neon,skyline&pans=0,0.6;0,0;0,0", "w": 1280}, {"h": 1280, "name": "3-cover-portrait.jpg", "query": "?shot=cover&layout=triptych&size=portrait&grade=sunset&title=Sunset%20Heist&subtitle=Ocean%20Drive&photos=skyline,boulevard,pier", "w": 1024}, {"h": 1080, "name": "4-cover-square.jpg", "query": "?shot=cover&layout=duo&size=square&grade=vice&title=Ocean%20Drive&subtitle=Palms%20%26%20Neon&photos=neon,pier", "w": 1080}]
